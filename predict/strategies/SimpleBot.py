@@ -9,6 +9,7 @@ import ccxt
 import pandas as pd
 from telegramHandler import sendMessage
 
+#pqp
 
 # NOTE: Class must be named Bot
 class Bot(BaseBot):
